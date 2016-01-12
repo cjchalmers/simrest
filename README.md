@@ -1,4 +1,4 @@
-# Galoshe
+# Simrest
 
 Your Dockered Spring Boot example, baby.
 
